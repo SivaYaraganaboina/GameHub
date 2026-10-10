@@ -1,0 +1,22 @@
+
+node_modules/
+.expo/
+dist/
+.tmp/
+*.log
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Signing credentials
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+
+# Operating system files
+.DS_Store
+Thumbs.db

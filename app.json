@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "GameHub",
+    "slug": "gamehub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/gamehub-icon.png",
+    "splash": {
+      "image": "./assets/gamehub-mark.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#090B11"
+    },
+    "android": {
+      "package": "com.gamehub.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/gamehub-mark.png",
+        "backgroundColor": "#090B11"
+      }
+    }
+  }
+}

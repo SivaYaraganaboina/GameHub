@@ -1,0 +1,222 @@
+[
+  {
+    "id": "g1",
+    "name": "Neon Drift",
+    "category": "Racing",
+    "description": "Slide through a neon-soaked city after dark. Master every corner, chase a clean line, and leave the pack in your glow.",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.8,
+    "players": "1–4 players",
+    "difficulty": "Easy to learn",
+    "accent": "#B7F267"
+  },
+  {
+    "id": "g2",
+    "name": "Shadow Strike",
+    "category": "Action",
+    "description": "A fast tactical adventure where every move matters. Sneak past guards, master your gear, and uncover the city’s secret network.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.7,
+    "players": "1 player",
+    "difficulty": "Challenging",
+    "accent": "#FF6B71"
+  },
+  {
+    "id": "g3",
+    "name": "Pocket Puzzler",
+    "category": "Puzzle",
+    "description": "A calming collection of clever little puzzles. Connect the dots, spot the pattern, and give your brain a satisfying workout.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.6,
+    "players": "1 player",
+    "difficulty": "Relaxed",
+    "accent": "#8C9EFF"
+  },
+  {
+    "id": "g4",
+    "name": "Street Hoops",
+    "category": "Sports",
+    "description": "Take the court and sink the shot. Build your streak, outplay your rivals, and make the neighborhood court yours.",
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.5,
+    "players": "1–2 players",
+    "difficulty": "Pick up and play",
+    "accent": "#FFB45C"
+  },
+  {
+    "id": "g5",
+    "name": "Orbit Runner",
+    "category": "Action",
+    "description": "Dash between tiny planets in an endless cosmic run. Time your jumps, dodge asteroids, and see how far your crew can go.",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.4,
+    "players": "1 player",
+    "difficulty": "Easy to learn",
+    "accent": "#61D9E8"
+  },
+  {
+    "id": "g6",
+    "name": "Tiny Tactics",
+    "category": "Puzzle",
+    "description": "Arrange your colorful crew on a compact board and outsmart each new challenge. Small moves make a big difference.",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.9,
+    "players": "1 player",
+    "difficulty": "Thoughtful",
+    "accent": "#D694FF"
+  },
+  {
+    "id": "g7",
+    "name": "Emberfall",
+    "category": "Action",
+    "description": "Fight through a kingdom caught between fire and ice. Chain quick attacks, rescue your crew, and bring the old forge back to life.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.6,
+    "players": "1–2 players",
+    "difficulty": "Fast paced",
+    "accent": "#FF7D4D"
+  },
+  {
+    "id": "g8",
+    "name": "Clockwork Code",
+    "category": "Puzzle",
+    "description": "Rotate gears, route signals, and solve tidy mechanical puzzles before the clock runs out.",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.3,
+    "players": "1 player",
+    "difficulty": "Thoughtful",
+    "accent": "#7DB6FF"
+  },
+  {
+    "id": "g9",
+    "name": "Summit Sprint",
+    "category": "Sports",
+    "description": "Race up rugged trails, pace your team, and cross the finish line with one last burst of speed.",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.2,
+    "players": "1–4 players",
+    "difficulty": "Pick up and play",
+    "accent": "#75D6A1"
+  },
+  {
+    "id": "g10",
+    "name": "Apex Circuit",
+    "category": "Racing",
+    "description": "Tune your ride and take on tight city circuits. Clean turns and smart boosts make every lap count.",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.7,
+    "players": "1–8 players",
+    "difficulty": "Competitive",
+    "accent": "#F3C85B"
+  },
+  {
+    "id": "g11",
+    "name": "Wildwood Quest",
+    "category": "Adventure",
+    "description": "Explore ancient woodland paths, meet curious travelers, and piece together the story hidden beneath the trees.",
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.8,
+    "players": "1 player",
+    "difficulty": "Relaxed",
+    "accent": "#8BCB75"
+  },
+  {
+    "id": "g12",
+    "name": "Skybound Relic",
+    "category": "Adventure",
+    "description": "Sail between floating islands, uncover forgotten ruins, and chart a path to a legendary skyborne relic.",
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.5,
+    "players": "1 player",
+    "difficulty": "Exploration",
+    "accent": "#77CBE8"
+  },
+  {
+    "id": "g13",
+    "name": "Crown & Kingdoms",
+    "category": "Strategy",
+    "description": "Build a steady realm, manage scarce resources, and outmaneuver rival houses across a changing map.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.6,
+    "players": "1–4 players",
+    "difficulty": "Strategic",
+    "accent": "#D4AA61"
+  },
+  {
+    "id": "g14",
+    "name": "Starfront Command",
+    "category": "Strategy",
+    "description": "Guide a small fleet through contested space. Plan your routes, protect your outposts, and choose each engagement carefully.",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.4,
+    "players": "1–2 players",
+    "difficulty": "Tactical",
+    "accent": "#8CA6FF"
+  },
+  {
+    "id": "g15",
+    "name": "Harbor Builder",
+    "category": "Simulation",
+    "description": "Turn a quiet shoreline into a thriving port. Balance shipping, neighborhoods, and the needs of your growing town.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.3,
+    "players": "1 player",
+    "difficulty": "Relaxed",
+    "accent": "#65C7C2"
+  },
+  {
+    "id": "g16",
+    "name": "Farmstead Days",
+    "category": "Simulation",
+    "description": "Plant seasonal crops, care for friendly animals, and shape a peaceful farm one day at a time.",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.7,
+    "players": "1 player",
+    "difficulty": "Easy to learn",
+    "accent": "#A7D76A"
+  },
+  {
+    "id": "g17",
+    "name": "Pixel Breakout",
+    "category": "Arcade",
+    "description": "Keep the ball in play, clear colorful stages, and chase a new high score in this quick arcade challenge.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.5,
+    "players": "1 player",
+    "difficulty": "Pick up and play",
+    "accent": "#F276C8"
+  },
+  {
+    "id": "g18",
+    "name": "Neon Dash",
+    "category": "Arcade",
+    "description": "Dodge obstacles, collect light orbs, and keep your streak alive through a lively neon course.",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.2,
+    "players": "1 player",
+    "difficulty": "Fast paced",
+    "accent": "#77E7EF"
+  },
+  {
+    "id": "g19",
+    "name": "Rhythm Rush",
+    "category": "Arcade",
+    "description": "Tap along to bright beats, hit each note on time, and build a perfect combo through every track.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.6,
+    "players": "1 player",
+    "difficulty": "Timing based",
+    "accent": "#EE79C8"
+  },
+  {
+    "id": "g20",
+    "name": "Pinball Galaxy",
+    "category": "Arcade",
+    "description": "Launch into a cosmic pinball table, hit glowing targets, and keep the bonus multiball going.",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=85",
+    "rating": 4.4,
+    "players": "1 player",
+    "difficulty": "Pick up and play",
+    "accent": "#A18BFF"
+  }
+]
